@@ -7,5 +7,4 @@
 <h1><b>Demo Aplikasi</b></h1>
 <p>klik gambar ini untuk melihat demo aplikasi</p>
 
-
 [![Flutter-Crud-Sqflite](https://img.youtube.com/vi/st5jflCU6nQ&t=10s/0.jpg)](https://www.youtube.com/watch?v=st5jflCU6nQ&t=10s)
